@@ -10,7 +10,7 @@ CarePet adalah sebuah website yang menyediakan berbagai informasi untuk membantu
     npm install
     ```
 
--   Jalankan dengan mengetik
+-   Jalankan dengan perintah
     ```
     npm run start-dev
     ```
