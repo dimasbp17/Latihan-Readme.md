@@ -1,6 +1,6 @@
 # CarePet
 
-    Sebuah website yang menyediakan berbagai informasi untuk membantu anda merawat kucing dan anjing kesayangan anda
+CarePet adalah sebuah website yang menyediakan berbagai informasi untuk membantu Anda dalam merawat kucing dan anjing kesayangan Anda dengan panduan yang terarah.
 
 ## Cara Menjalankan
 
