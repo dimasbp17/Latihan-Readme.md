@@ -1,10 +1,16 @@
-# Latihan-Readme.md
+# CarePet
+
+    Sebuah website yang menyediakan berbagai informasi untuk membantu anda merawat kucing dan anjing kesayangan anda
 
 ## Cara Menjalankan
 
--   Menambahkan sebuah cerita yang sangat baik
+-   Ketikkan pada terminal
 
     ```
-    ketik npm install
+    npm install
+    ```
 
+-   Jalankan dengan mengetik
+    ```
+    npm run start-dev
     ```
